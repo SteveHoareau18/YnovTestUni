@@ -1,6 +1,6 @@
-### Run the application
+### Install the app
 ```bash
-npm run start
+npm i
 ```
 
 ### Start database
@@ -8,4 +8,7 @@ npm run start
 docker-compose up
 ```
 
-
+### Run the application
+```bash
+npm run start
+```
